@@ -1,0 +1,11 @@
+.oneCard {
+    width: 300px;
+    min-height: 150px;
+}
+.complete {
+    text-decoration: line-through;
+}
+
+.incomplete {
+    text-decoration: none;
+}
